@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>超值日报</title>
+  <title>值乐</title>
   <subtitle>每日为您带来最超值的优惠信息</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://lestanster.github.io/"/>
+  <link href="http://zhile.club/"/>
   <updated>2016-09-16T10:31:38.017Z</updated>
-  <id>http://lestanster.github.io/</id>
+  <id>http://zhile.club/</id>
   
   <author>
-    <name>超值日报</name>
+    <name>值乐</name>
     
   </author>
   
@@ -17,8 +17,8 @@
   
   <entry>
     <title>三星（SAMSUNG） Galaxy S7 Edge32GB 4G手机 包邮包税 新补货 ￥3680</title>
-    <link href="http://lestanster.github.io/2016/09/16/%E4%B8%89%E6%98%9F%EF%BC%88SAMSUNG%EF%BC%89GalaxyS7Edge32GB4G%E6%89%8B%E6%9C%BA/"/>
-    <id>http://lestanster.github.io/2016/09/16/三星（SAMSUNG）GalaxyS7Edge32GB4G手机/</id>
+    <link href="http://zhile.club/2016/09/16/%E4%B8%89%E6%98%9F%EF%BC%88SAMSUNG%EF%BC%89GalaxyS7Edge32GB4G%E6%89%8B%E6%9C%BA/"/>
+    <id>http://zhile.club/2016/09/16/三星（SAMSUNG）GalaxyS7Edge32GB4G手机/</id>
     <published>2016-09-16T07:24:33.000Z</published>
     <updated>2016-09-16T10:31:38.017Z</updated>
     
@@ -43,21 +43,21 @@
     
     </summary>
     
-      <category term="京东全球购" scheme="http://lestanster.github.io/categories/%E4%BA%AC%E4%B8%9C%E5%85%A8%E7%90%83%E8%B4%AD/"/>
+      <category term="京东全球购" scheme="http://zhile.club/categories/%E4%BA%AC%E4%B8%9C%E5%85%A8%E7%90%83%E8%B4%AD/"/>
     
     
-      <category term="三星（SAMSUNG）" scheme="http://lestanster.github.io/tags/%E4%B8%89%E6%98%9F%EF%BC%88SAMSUNG%EF%BC%89/"/>
+      <category term="三星（SAMSUNG）" scheme="http://zhile.club/tags/%E4%B8%89%E6%98%9F%EF%BC%88SAMSUNG%EF%BC%89/"/>
     
-      <category term="手机" scheme="http://lestanster.github.io/tags/%E6%89%8B%E6%9C%BA/"/>
+      <category term="手机" scheme="http://zhile.club/tags/%E6%89%8B%E6%9C%BA/"/>
     
-      <category term="Galaxy" scheme="http://lestanster.github.io/tags/Galaxy/"/>
+      <category term="Galaxy" scheme="http://zhile.club/tags/Galaxy/"/>
     
   </entry>
   
   <entry>
     <title>Oral-B 欧乐B EB18-3 美白型 电动牙刷头(3支装)    89元包邮</title>
-    <link href="http://lestanster.github.io/2016/09/16/Oral-B%E6%AC%A7%E4%B9%90B/"/>
-    <id>http://lestanster.github.io/2016/09/16/Oral-B欧乐B/</id>
+    <link href="http://zhile.club/2016/09/16/Oral-B%E6%AC%A7%E4%B9%90B/"/>
+    <id>http://zhile.club/2016/09/16/Oral-B欧乐B/</id>
     <published>2016-09-16T07:14:50.000Z</published>
     <updated>2016-09-16T10:20:57.510Z</updated>
     
@@ -80,14 +80,14 @@
     
     </summary>
     
-      <category term="个人护理" scheme="http://lestanster.github.io/categories/%E4%B8%AA%E4%BA%BA%E6%8A%A4%E7%90%86/"/>
+      <category term="个人护理" scheme="http://zhile.club/categories/%E4%B8%AA%E4%BA%BA%E6%8A%A4%E7%90%86/"/>
     
     
-      <category term="亚马逊中国" scheme="http://lestanster.github.io/tags/%E4%BA%9A%E9%A9%AC%E9%80%8A%E4%B8%AD%E5%9B%BD/"/>
+      <category term="亚马逊中国" scheme="http://zhile.club/tags/%E4%BA%9A%E9%A9%AC%E9%80%8A%E4%B8%AD%E5%9B%BD/"/>
     
-      <category term="个人护理" scheme="http://lestanster.github.io/tags/%E4%B8%AA%E4%BA%BA%E6%8A%A4%E7%90%86/"/>
+      <category term="个人护理" scheme="http://zhile.club/tags/%E4%B8%AA%E4%BA%BA%E6%8A%A4%E7%90%86/"/>
     
-      <category term="家用电器" scheme="http://lestanster.github.io/tags/%E5%AE%B6%E7%94%A8%E7%94%B5%E5%99%A8/"/>
+      <category term="家用电器" scheme="http://zhile.club/tags/%E5%AE%B6%E7%94%A8%E7%94%B5%E5%99%A8/"/>
     
   </entry>
   
